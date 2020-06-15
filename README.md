@@ -1,6 +1,6 @@
 # mvc-gradle-develop
  
-####基础开发环境
+基础开发环境
 
 ##### 架构
 * gradle
