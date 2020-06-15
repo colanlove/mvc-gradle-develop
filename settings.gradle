@@ -1,0 +1,4 @@
+rootProject.name = 'mvc-gradle-develop'
+include 'common-develop'
+include 'develop-base'
+
